@@ -19,4 +19,7 @@ dist
 *.pyc
 *.pyo
 *.tmp*
-
+.project
+.pydevproject
+pyccms.db
+pyccms/static/ext-4.0.0
