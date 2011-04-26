@@ -1,0 +1,1 @@
+from myview import *

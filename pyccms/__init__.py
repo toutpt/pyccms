@@ -14,4 +14,3 @@ def main(global_config, **settings):
                      view_renderer='templates/mytemplate.pt')
     return config.make_wsgi_app()
 
-
